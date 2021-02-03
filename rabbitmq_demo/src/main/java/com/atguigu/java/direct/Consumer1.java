@@ -19,6 +19,7 @@ public class Consumer1 {
                 System.out.println("第一次更新");
                 System.out.println("第二次更新");
                 System.out.println("master分支更新");
+                System.out.println("在线更新");
             }
         });
     }
